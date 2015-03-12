@@ -1,0 +1,4 @@
+"""
+This Step's purpose is Changing gpx files to txt files that have (lat, lon, date) data.
+Location Data will be needed to make array for DBN input. 
+"""

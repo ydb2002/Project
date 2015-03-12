@@ -1,0 +1,7 @@
+"""
+This Step's purpose is drawing a graph that is predicted mobility model.
+
+This Step will mapping data to graph because Predicted mobility model is array.
+
+I will draw graph by matplotlib.
+"""
